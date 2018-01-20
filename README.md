@@ -8,4 +8,6 @@ Symmetric-key Algorithms - AES, Blowfish, DES, TripleDES, RC2, RC4, TEA and Twof
 Asymmetric-key Algorithms - Asymmetric - Paillier, ElGamal and RSA
 Digital Signature - Digital Security Algorithm
 
-Lessons Learnt - Gained hands-on experience in information security and learnt to collaborate external libraries and API.
+Lessons Learnt
+--------------
+Gained hands-on experience in information security and learnt to collaborate external libraries and API.
